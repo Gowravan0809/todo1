@@ -1,0 +1,6 @@
+addButton.addEventListener('click',addTask);
+.completed {
+    color: yellowgreen;
+    background-color: brown;
+    text-decoration: line-through;
+}
